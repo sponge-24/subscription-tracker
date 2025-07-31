@@ -1,0 +1,13 @@
+-> to test other types of http request, we need http client like postman, insomnia, httpie
+
+-> mangoose, an orm for mongodb
+
+-> models in the applicaiton defines the data is going to look like
+
+-> middleware - will have have four things, the error (what happend before request), the requet, the response, what 
+                happens after (next)
+
+-> error handling middleware, takes the request first, looks for any error before implementing any business side logic,
+   it helps to save time in debugging
+
+-> never store passwords in plain text
