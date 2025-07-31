@@ -1,4 +1,4 @@
-# SubDub - Subscription Tracker API
+# Subscription Tracker API
 
 A Node.js REST API for managing user subscriptions, built with Express and MongoDB.
 
